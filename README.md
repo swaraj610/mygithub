@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Atharv Sontakke</h2>
+<h2 align="left">Hi 👋! My name is Swaraj Singh Thakur </h2>
 
 ###
 
